@@ -7,3 +7,20 @@
 
 # Repository
 - Where all our snapshots are stored
+ 
+
+
+git init   - initialize git in current folder
+
+git status   - current staus
+
+git add   - add files to be tracked
+
+git add .   - adds all files currently staged
+
+git commit   - making a checkpoint in time with changes that were added
+git commit - m "message"   - commits with message
+
+
+ls -a - shows hidden folders
+rm -rf - removes git from folder
