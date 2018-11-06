@@ -21,6 +21,8 @@ git add .   - adds all files currently staged
 git commit   - making a checkpoint in time with changes that were added
 git commit - m "message"   - commits with message
 
+git log   - shows history of snap shots
+
 
 ls -a - shows hidden folders
 rm -rf - removes git from folder
