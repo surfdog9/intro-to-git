@@ -38,3 +38,5 @@ rm -rf - removes git from folder
 ignoring files
 touch .gitignore
 rename a file  - mv <oldfilename> <newfilename>
+
+q   - exit out log
