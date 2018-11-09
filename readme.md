@@ -18,6 +18,7 @@ git add   - add files to be tracked
 
 git add .   - adds all files currently staged
 git add *.html   - adds all html files
+git add *.<filetype>   - adds all files of specied file type
 git add -A   - add all files and folders from current directory
 
 git reset HEAD <file>   - removes file from staging area
@@ -27,6 +28,9 @@ git commit - m "message"   - commits with message
 
 git log   - shows history of snap shots
 
+git branch   - list all braches in repository
+git checkout -b 'branch_name'   - create and switch to new branch
+git checkout <branch_name>   - switch to existing branch_name
 
 ls -a - shows hidden folders
 rm -rf - removes git from folder
