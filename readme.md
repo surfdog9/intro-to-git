@@ -32,6 +32,8 @@ git branch   - list all braches in repository
 git checkout -b 'branch_name'   - create and switch to new branch
 git checkout <branch_name>   - switch to existing branch_name
 
+git merge <branch_name>   - merges current banch with named branch
+
 ls -a - shows hidden folders
 rm -rf - removes git from folder
 
